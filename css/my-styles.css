@@ -1,0 +1,55 @@
+body {
+	text-align: center;
+  font-family: sans-serif;
+	height: 100%;
+	background-color: #000000;
+}
+
+h1 {
+  color: #ffc20e;
+  font-weight: 100;
+  font-size: 40px;
+  margin: 40px 0px 20px;
+}
+
+.time-block {
+	margin-top: 10px;
+}
+
+.time-block2 {
+
+	
+}
+
+.header {
+	padding-top: 35px;
+}
+
+#clockdiv{
+	font-family: sans-serif;
+	color: #000000;
+	display: inline-block;
+	font-weight: 100;
+	text-align: center;
+	font-size: 30px;
+  padding-top: 50px;
+}
+
+#clockdiv > div{
+	padding: 10px;
+	border-radius: 3px;
+	background: #b2babf;
+	display: inline-block;
+}
+
+#clockdiv div > span{
+	padding: 15px;
+	border-radius: 3px;
+	background: #ffc20e;
+	display: inline-block;
+}
+
+.smalltext{
+	padding-top: 5px;
+	font-size: 16px;
+}
