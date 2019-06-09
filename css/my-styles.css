@@ -10,15 +10,11 @@ h1 {
   font-weight: 100;
   font-size: 40px;
   margin: 40px 0px 20px;
+	box-sizing: border-box;
 }
 
 .time-block {
 	margin-top: 10px;
-}
-
-.time-block2 {
-
-	
 }
 
 .header {
