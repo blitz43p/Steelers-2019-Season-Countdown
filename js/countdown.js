@@ -40,7 +40,7 @@
 
         clearInterval(timeinterval);
 
-      } 
+      }
 
     }// end of updateClock function
 
@@ -50,6 +50,7 @@
 
   }// end of initializeClock function
 
+  // 7 numbers specify year, month, day, hour, minute, second, and millisecond (in that order):
   var deadline = new Date(2019,8,10);
 
   initializeClock('clockdiv', deadline);
