@@ -51,6 +51,6 @@
   }// end of initializeClock function
 
   // 7 numbers specify year, month, day, hour, minute, second, and millisecond (in that order):
-  var deadline = new Date(2019, 10, 28, 19, 15, 00, 0);
+  var deadline = new Date(2019, 09, 28, 18, 14, 00, 0);
 
   initializeClock('clockdiv', deadline);
